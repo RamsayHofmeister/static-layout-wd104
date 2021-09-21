@@ -151,7 +151,7 @@ body {
   border-top: 5px solid white;
 }
 
-.active:after {
+/* .active:after {
   content: "";
   position: absolute;
   right: 10px;
@@ -161,7 +161,7 @@ body {
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   border-top: 5px solid #333;
-}
+} */
 
 .active3 {
   position: relative;
